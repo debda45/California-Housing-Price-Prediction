@@ -47,7 +47,7 @@ To ensure the model is reliable and not just "fitting noise," I performed a fore
     ```
 3.  Run the Jupyter Notebook:
     ```bash
-    jupyter notebook Boston_Project_Housing_Analysis.ipynb
+    jupyter notebook California_Project_Housing_Analysis.ipynb
     ```
 
 ## 📜 Dataset
